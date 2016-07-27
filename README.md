@@ -1,2 +1,2 @@
-# easings
-easings libraries
+# Easings
+Easings Variables for LESS, SCSS
